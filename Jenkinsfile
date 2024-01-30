@@ -10,5 +10,13 @@ pipeline {
                 '''
             }
         }
+
+        stage('Notification') {
+            steps {
+                emailext body: 'Test Message',
+                    subject: 'Test Subject',
+                    to: 'mega.steblyatko@gmail.com'
+            }
+        }
     }
 }
