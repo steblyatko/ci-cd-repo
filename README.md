@@ -1,4 +1,4 @@
-[![Build Status](http://localhost:8080/buildStatus/icon?job=ci-cd%2Fdev)](http://localhost:8080/job/ci-cd/job/dev/)
+[![Build Status](https://1e72-92-253-212-206.ngrok-free.app/job/FreeStyle/badge/icon)](https://1e72-92-253-212-206.ngrok-free.app/job/FreeStyle/)
 
 # CD/CI Tutorial Sample Application
 
